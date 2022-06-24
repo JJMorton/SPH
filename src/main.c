@@ -1,8 +1,4 @@
 /*
- * Jack Morton
- * PHYM004 Computational Physics and Modelling
- * Final Project -- Smoothed Particle Hydrodynamics
- * 01/04/22
  * 
  * This program is an implementation of Smoothed Particle Hydrodynamics,
  * with variable smoothing lengths, adaptive timestepping and aritifcial
