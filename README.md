@@ -1,11 +1,8 @@
 ## SPH
-This project is an implementation of Smoothed Particle Hydrodynamics (SPH) in one dimen-
-sion, with adaptive timestepping and per-particle smoothing lengths. The model includes ar-
-tificial viscosity as well as conductivity, as described in [1]. There are Euler and second-order
-Runge-Kutta integration methods implemented and available for use via the command line
-arguments, though the Runge-Kutta method will be used throughout the rest of this report
-due to its superior performance. Boundary conditions are enforced with ghost particles that
-mirror the positions of the real particles across the two ends of the box.
+This project is an implementation of Smoothed Particle Hydrodynamics (SPH) in one dimension, with adaptive timestepping and per-particle smoothing lengths.
+The model includes artificial viscosity as well as conductivity, as described in [1].
+There are Euler and second-order Runge-Kutta integration methods implemented and available for use via the command line arguments.
+Boundary conditions are enforced with ghost particles that mirror the positions of the real particles across the two ends of the box.
 
 ### References
 
