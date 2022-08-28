@@ -4,4 +4,5 @@
 *.tsv
 *.pdf
 *.o
+!/report.pdf
 
